@@ -1,0 +1,15 @@
+# Lista IPs de roteadores RouterOS que fazem autenticação
+# pppoe ou hotspot.
+# Arquivo exemplo de como configurar a lista:
+
+
+# Roteador alguma coisa1
+172.16.116.4
+# Concentrador outra coisa1
+172.16.116.6
+
+# Concentrador Center
+172.16.116.9
+
+# Concentrador alguma coisa2
+172.16.116.10
